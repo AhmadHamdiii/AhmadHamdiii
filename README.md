@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 ### I'm Ahmad Hamdi 🧞‍♂️
 
 I'm a passionate data scientist and machine learning enthusiast, currently diving deep into the world of data and algorithms. With a solid foundation in data analysis, statistical modeling, and predictive analytics, I love transforming raw data into actionable insights and innovative solutions.
@@ -45,6 +48,7 @@ I'm a passionate data scientist and machine learning enthusiast, currently divin
 
 ## 📊 Stats
 [![GitHub Streak](https://github-readme-streak-stats-six-flame.vercel.app?user=AhmadHamdiii&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AhmadHamdiii)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
