@@ -25,9 +25,9 @@ I'm a passionate data scientist and machine learning enthusiast, currently divin
 ---
 
 ## Cyber Companionship Awaits:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hesham%20Haroon-blue)](https://www.linkedin.com/in/ahmad-hamdi-798911169)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Hamdi-blue)](https://www.linkedin.com/in/ahmad-hamdi-798911169)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-13250216-orange)](https://stackoverflow.com//users/22941850)
-[![Facebook](https://img.shields.io/badge/Facebook-Hesham%20Haroon-blue)](https://www.facebook.com)
+[![Facebook](https://img.shields.io/badge/AhmadHamdi%20Haroon-blue)](https://www.facebook.com)
 
 ## My Alchemical Toolkit:
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -46,11 +46,3 @@ I'm a passionate data scientist and machine learning enthusiast, currently divin
 ![LangChain](https://img.shields.io/badge/LangChain-35495e?style=for-the-badge&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-FF6F00?style=for-the-badge&logo=ollama&logoColor=white)
 
-## Chronicle of My Conquests:
-![Top Langs](https://github-readme-stats.vercel.app)
-![Hesham's GitHub stats](https://github-readme-stats.vercel.app)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com)
-
-## Join the Guild of Visionaries:
-![Profile views](https://komarev.com)
-![Followers](https://img.shields.io)
