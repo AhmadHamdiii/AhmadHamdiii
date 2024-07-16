@@ -48,7 +48,8 @@ I'm a passionate data scientist and machine learning enthusiast, currently divin
 
 ## 📊 Stats
 [![GitHub Streak](https://github-readme-streak-stats-six-flame.vercel.app?user=AhmadHamdiii&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AhmadHamdiii)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AhmadHamdiii)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 
 
