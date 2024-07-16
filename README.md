@@ -1,4 +1,4 @@
-### I'm Ahmad Hamdi 🧞‍♂️
+### I'm Ahmad Hamdi 😻
 I'm a passionate data scientist and machine learning enthusiast, currently diving deep into the world of data and algorithms. With a solid foundation in data analysis, statistical modeling, and predictive analytics, I love transforming raw data into actionable insights and innovative solutions.
 <div align="center">
   <img src="https://38.media.tumblr.com/6cce1d9b8f3a2e4a54330d80811fa921/tumblr_mtbppdZOrE1qze3hdo1_500.gif" width="800" height="270"/>
