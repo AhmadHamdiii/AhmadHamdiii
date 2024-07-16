@@ -42,3 +42,11 @@ I'm a passionate data scientist and machine learning enthusiast, currently divin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📊 Stats
+[![GitHub Streak](https://github-readme-streak-stats-six-flame.vercel.app?user=AhmadHamdiii&theme=dark)](https://git.io/streak-stats)
+
+
+
+
+
