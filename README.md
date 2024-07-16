@@ -1,17 +1,15 @@
-# Greetings, Digital Explorers! 🌐 I'm Ahmad Hamdi 🧞‍♂️
+# I'm Ahmad Hamdi 🧞‍♂️
 
 🎩✨ Embarking on a quest to forge the future with GenAI - where art meets algorithm. In the alchemy of Machine Learning, the choreography of Deep Learning, and the narrative magic of NLP, I am the tech illusionist pushing boundaries into the unknown. 🚀
 
-- 🔮 I conjure up GenAI marvels here: [My Projects](https://github.com/h9-tect)
-- 📺 Peek into my realm of pixels on [YouTube](https://www.youtube.com/channel/UC74SgWA5QZHMYOoFvCpoMSA)
-- ✍️ Scribing my saga on [My Blog](https://www.blogger.com/blog/posts/7869356261850495689?pli=1)
+- 🔮 I conjure up GenAI marvels here: [My Projects](https://github.com/AhmadHa)
 - 📜 Decipher my odyssey at [My Resume](https://drive.google.com/file/d/1zUy7rAkJ010OLL7oyJ52JktrmvEXYrDB/view?usp=sharing)
-- 📧 Conjure me via digital scroll: **heshamharoon19@gmail.com*
+- 📧 Conjure me via digital scroll: **ahmadelmasry179@gmail.com*
 
 ## Cyber Companionship Awaits:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hesham%20Haroon-blue)](https://www.linkedin.com/in/hesham-haroon-33702a189)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-13250216-orange)](https://stackoverflow.com/users/13250216)
-[![Facebook](https://img.shields.io/badge/Facebook-Hesham%20Haroon-blue)](https://www.facebook.com/hesham.haroon.94)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hesham%20Haroon-blue)](https://www.linkedin.com/in/ahmad-hamdi-798911169)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-13250216-orange)](https://stackoverflow.com//users/22941850)
+[![Facebook](https://img.shields.io/badge/Facebook-Hesham%20Haroon-blue)](https://www.facebook.com)
 
 ## My Alchemical Toolkit:
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -31,10 +29,10 @@
 ![Ollama](https://img.shields.io/badge/Ollama-FF6F00?style=for-the-badge&logo=ollama&logoColor=white)
 
 ## Chronicle of My Conquests:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=h9-tect&show_icons=true&theme=dark&layout=compact)
-![Hesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=h9-tect&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h9-tect&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app)
+![Hesham's GitHub stats](https://github-readme-stats.vercel.app)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com)
 
 ## Join the Guild of Visionaries:
-![Profile views](https://komarev.com/ghpvc/?username=h9-tect)
-![Followers](https://img.shields.io/github/followers/h9-tect?style=social)
+![Profile views](https://komarev.com)
+![Followers](https://img.shields.io)
