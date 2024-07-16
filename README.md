@@ -1,17 +1,5 @@
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
 <div align="center">
-  <img src="https://38.media.tumblr.com/6cce1d9b8f3a2e4a54330d80811fa921/tumblr_mtbppdZOrE1qze3hdo1_500.gif" width="800" height="350"/>
+  <img src="https://38.media.tumblr.com/6cce1d9b8f3a2e4a54330d80811fa921/tumblr_mtbppdZOrE1qze3hdo1_500.gif" width="800" height="270"/>
 </div>
 
 ### I'm Ahmad Hamdi 🧞‍♂️
