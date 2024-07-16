@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://38.media.tumblr.com/6cce1d9b8f3a2e4a54330d80811fa921/tumblr_mtbppdZOrE1qze3hdo1_500.gif" width="600" height="300"/>
+  <img src="https://38.media.tumblr.com/6cce1d9b8f3a2e4a54330d80811fa921/tumblr_mtbppdZOrE1qze3hdo1_500.gif" width="800" height="200"/>
 </div>
 ### I'm Ahmad Hamdi 🧞‍♂️
 
