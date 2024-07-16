@@ -18,16 +18,15 @@ I'm a passionate data scientist and machine learning enthusiast, currently divin
 - **Machine Learning Frameworks:** scikit-learn, TensorFlow, Keras
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Tools & Platforms:** Jupyter Notebook, Anaconda, Git
-
+### 🔗 Links 
 - 🔮 I conjure up GenAI marvels here: [My Projects](https://github.com/AhmadHamdiii)
 - 📜 Decipher my odyssey at [My Resume](https://drive.google.com/)
 - 📧 Conjure me via digital scroll: **ahmadelmasry179@gmail.com*
----
 
 ## Cyber Companionship Awaits:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Hamdi-blue)](https://www.linkedin.com/in/ahmad-hamdi-798911169)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-13250216-orange)](https://stackoverflow.com//users/22941850)
-[![Facebook](https://img.shields.io/badge/AhmadHamdi%20Haroon-blue)](https://www.facebook.com)
+[![Facebook](https://img.shields.io/badge/AhmadHamdi%20-blue)](https://www.facebook.com)
 
 ## My Alchemical Toolkit:
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
