@@ -3,16 +3,12 @@ I'm a passionate data scientist and machine learning enthusiast, currently divin
 <div align="center">
   <img src="https://38.media.tumblr.com/6cce1d9b8f3a2e4a54330d80811fa921/tumblr_mtbppdZOrE1qze3hdo1_500.gif" width="800" height="270"/>
 </div>
+
 ### 🧠 What I Do
 - **Data Science:** Analyzing complex datasets to uncover patterns and trends.
 - **Machine Learning:** Building and deploying machine learning models to solve real-world problems.
 - **Python & R Programming:** Writing efficient code for data manipulation, visualization, and model development.
 - **Data Visualization:** Crafting compelling visualizations to tell data-driven stories.
-
-### 🌱 Currently Learning
-- Advanced machine learning techniques and deep learning.
-- Big data technologies like Hadoop and Spark.
-- Deployment and scaling of machine learning models in production environments.
 
 ### 🛠️ Tech Stack
 - **Programming Languages:** Python, R, SQL
