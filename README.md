@@ -23,7 +23,7 @@ I'm a passionate data scientist and machine learning enthusiast, currently divin
 ## Cyber Companionship Awaits:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Hamdi-blue)](https://www.linkedin.com/in/ahmad-hamdi-798911169)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-13250216-orange)](https://stackoverflow.com//users/22941850)
-[![Facebook](https://img.shields.io/badge/AhmadHamdi%20-blue)](https://www.facebook.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Ahmad%20Hamdi-blue)](https://www.facebook.com)
 
 ## My Alchemical Toolkit:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
