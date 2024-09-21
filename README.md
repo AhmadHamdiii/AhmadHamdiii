@@ -1,4 +1,4 @@
-### I'm Ahmad Hamdi 😻
+### I'm Sarah Elmasry 😻
 I'm a passionate data scientist and machine learning enthusiast, currently diving deep into the world of data and algorithms. With a solid foundation in data analysis, statistical modeling, and predictive analytics, I love transforming raw data into actionable insights and innovative solutions.
 <div align="center">
   <img src="https://38.media.tumblr.com/6cce1d9b8f3a2e4a54330d80811fa921/tumblr_mtbppdZOrE1qze3hdo1_500.gif" width="800" height="270"/>
@@ -16,9 +16,9 @@ I'm a passionate data scientist and machine learning enthusiast, currently divin
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Tools & Platforms:** Jupyter Notebook, Anaconda, Git
 ### 🔗 Links 
-- 🔮 I conjure up GenAI marvels here: [My Projects](https://github.com/AhmadHamdiii)
+- 🔮 I conjure up GenAI marvels here: [My Projects](https://github.com/sarahelmsri)
 - 📜 Decipher my odyssey at [My Resume](https://drive.google.com/)
-- 📧 Conjure me via digital scroll: **ahmadelmasry179@gmail.com*
+- 📧 Conjure me via digital scroll: **sarahelmasry179@gmail.com*
 
 ## Cyber Companionship Awaits:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Hamdi-blue)](https://www.linkedin.com/in/ahmad-hamdi-798911169)
