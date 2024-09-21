@@ -21,7 +21,7 @@ I'm a passionate data scientist and machine learning enthusiast, currently divin
 - 📧 Conjure me via digital scroll: **sarahelmasry179@gmail.com*
 
 ## Cyber Companionship Awaits:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarah%20Elmasry-blue)](https://www.linkedin.com/in/sarah-elmasry-07a99832a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarah%20Elmasry-blue)](https://www.linkedin.com/in/sarahelmasri/)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-13250216-orange)](https://stackoverflow.com//users/22941850)
 [![Facebook](https://img.shields.io/badge/Facebook-Sarah%20Elmasry-blue)](https://web.facebook.com/profile.php?id=100092323505656)
 
